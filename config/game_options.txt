@@ -33,8 +33,8 @@ COMMENDATION_PERCENT_POLL 0.05
 ## To speed things up make the number negative, to slow things down, make the number positive.
 
 ## These modify the run/walk speed of all mobs before the mob-specific modifiers are applied.
-RUN_DELAY 1.5
-WALK_DELAY 4
+RUN_DELAY 2
+WALK_DELAY 4.25
 
 ## The variables below affect the movement of specific mob types. THIS AFFECTS ALL SUBTYPES OF THE TYPE YOU CHOOSE!
 ## Entries completely override all subtypes. Later entries have precedence over earlier entries.
@@ -319,7 +319,7 @@ ROUNDSTART_RACES human
 ROUNDSTART_RACES felinid
 ROUNDSTART_RACES lizard
 ROUNDSTART_RACES felinid
-#ROUNDSTART_RACES fly
+ROUNDSTART_RACES fly
 ROUNDSTART_RACES moth
 ROUNDSTART_RACES plasmaman
 #ROUNDSTART_RACES shadow
@@ -327,12 +327,12 @@ ROUNDSTART_RACES teshari
 
 ## Races that are better than humans in some ways, but worse in others
 ROUNDSTART_RACES ethereal
-#ROUNDSTART_RACES jelly
+ROUNDSTART_RACES jelly
 #ROUNDSTART_RACES abductor
-#ROUNDSTART_RACES synth
+ROUNDSTART_RACES synth
 
 ## Including all the various golem subtypes that are better than humans in some ways, but worse in others
-#ROUNDSTART_RACES iron_golem
+ROUNDSTART_RACES iron_golem
 #ROUNDSTART_RACES adamantine_golem
 #ROUNDSTART_RACES plasma_golem
 #ROUNDSTART_RACES diamond_golem
@@ -377,16 +377,16 @@ ROUNDSTART_RACES skrell
 ROUNDSTART_RACES humanoid
 ROUNDSTART_RACES xeno
 ROUNDSTART_RACES slimeperson
-ROUNDSTART_RACES podweak
+#ROUNDSTART_RACES podweak
 ROUNDSTART_RACES dwarf
-ROUNDSTART_RACES ipc
-ROUNDSTART_RACES synthliz
-ROUNDSTART_RACES vox
-ROUNDSTART_RACES aquatic
-ROUNDSTART_RACES insect
-ROUNDSTART_RACES synthmammal
-ROUNDSTART_RACES synthhuman
-ROUNDSTART_RACES ghoul
+#ROUNDSTART_RACES ipc
+#ROUNDSTART_RACES synthliz
+#ROUNDSTART_RACES vox
+#ROUNDSTART_RACES aquatic
+#ROUNDSTART_RACES insect
+#ROUNDSTART_RACES synthmammal
+#ROUNDSTART_RACES synthhuman
+#ROUNDSTART_RACES ghoul
 
 ##-------------------------------------------------------------------------------------------
 

@@ -21,11 +21,13 @@ Prisoner=12,2
 
 Quartermaster=1,1
 Cargo Technician=3,2
+Customs Agent=1,1
 Shaft Miner=5,5
 
 #Services
 
 Bartender=1,1
+Bouncer=1,1
 Cook=2,1
 Botanist=3,2
 Janitor=2,1
@@ -48,6 +50,7 @@ Atmospheric Technician=3,2
 Medical Doctor=5,3
 Paramedic=2,2
 Chemist=2,2
+Orderly=1,1
 Geneticist=2,2
 Virologist=1,1
 Psychologist=1,1
@@ -60,13 +63,15 @@ Vanguard Operative=2,2
 
 #Security
 
-Warden=1,1
+Warden=0,0
 Security Sergeant=0,0
 Detective=1,1
-Security Officer=4,4
-Security Medic=1,1
-Corrections Officer=1,1
-Civil Disputes Officer=4,4
+Engineering Guard=0,0
+Security Officer=0,0
+Security Medic=0,0
+Science Guard=0,0
+Corrections Officer=0,0
+Civil Disputes Officer=0,0
 
 #Silicon
 
