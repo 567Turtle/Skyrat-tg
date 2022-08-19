@@ -8,7 +8,7 @@ I'd rather there be something than the clockwork ruin be entirely empty though s
 
 /mob/living/simple_animal/hostile/megafauna/clockwork_defender
 	name = "clockwork defender"
-	desc = "A traitorous clockwork knight who lived on, despite its creators destruction."
+	desc = "bros got the matching clockwork skin and harvesting tool combo"
 	health = 300
 	maxHealth = 300
 	icon_state = "clockwork_defender"

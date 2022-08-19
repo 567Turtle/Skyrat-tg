@@ -36,7 +36,7 @@ Difficulty: Hard
 
 /mob/living/simple_animal/hostile/megafauna/hierophant
 	name = "hierophant"
-	desc = "A massive metal club that hangs in the air as though waiting. It'll make you dance to its beat."
+	desc = "niggas got a boogie bomb that constantly goes off as he wishes, he will set your beat"
 	health = 2500
 	maxHealth = 2500
 	attack_verb_continuous = "clubs"

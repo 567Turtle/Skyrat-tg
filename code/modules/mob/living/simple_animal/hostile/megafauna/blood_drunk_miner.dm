@@ -22,7 +22,7 @@ Difficulty: Medium
 
 /mob/living/simple_animal/hostile/megafauna/blood_drunk_miner
 	name = "blood-drunk miner"
-	desc = "A miner destined to wander forever, engaged in an endless hunt."
+	desc = "dudes got his harvesting tool id watch out"
 	health = 900
 	maxHealth = 900
 	icon_state = "miner"

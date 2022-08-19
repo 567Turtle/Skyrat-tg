@@ -23,7 +23,7 @@
 	icon_state = "mega_legion"
 	icon_living = "mega_legion"
 	health_doll_icon = "mega_legion"
-	desc = "One of many."
+	desc = "legon"
 	icon = 'icons/mob/lavaland/96x96megafauna.dmi'
 	attack_verb_continuous = "chomps"
 	attack_verb_simple = "chomp"

@@ -36,7 +36,7 @@
 
 /mob/living/simple_animal/hostile/megafauna/dragon
 	name = "ash drake"
-	desc = "Guardians of the necropolis."
+	desc = "a sentient fortnite umbrella"
 	health = 2500
 	maxHealth = 2500
 	attack_verb_continuous = "chomps"

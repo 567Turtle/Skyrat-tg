@@ -20,7 +20,7 @@
  */
 /mob/living/simple_animal/hostile/megafauna/colossus
 	name = "colossus"
-	desc = "A monstrous creature protected by heavy shielding."
+	desc = "niggas got a golden scar watch out"
 	health = 2500
 	maxHealth = 2500
 	attack_verb_continuous = "judges"

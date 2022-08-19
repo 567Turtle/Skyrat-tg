@@ -18,7 +18,7 @@
 
 /mob/living/simple_animal/hostile/asteroid/elite/legionnaire
 	name = "legionnaire"
-	desc = "A towering skeleton, embodying the terrifying power of Legion."
+	desc = "bros throwing frags!! hes got a car he'll ram you with watch out nigga!!!"
 	icon_state = "legionnaire"
 	icon_living = "legionnaire"
 	icon_aggro = "legionnaire"
